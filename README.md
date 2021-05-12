@@ -10,7 +10,7 @@ I'm dtrongphuc 😎
 
 - Javascript
 - ReactJs
-- Interest: ReactNative, Typescript
+- Interest: React Native, Typescript
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrongphuc&hide=stars,issues)
 
