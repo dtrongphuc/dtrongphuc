@@ -13,5 +13,6 @@ I'm dtrongphuc 😎
 - Redux
 - Interest: React Native, Typescript
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrongphuc&hide=stars,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtrongphuc&hide=stars&show_icons=true?count_private=true&theme=tokyonight)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dtrongphuc)](https://github.com/anuraghazra/github-readme-stats)
