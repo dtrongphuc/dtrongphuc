@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-I'm dtrongphuc 😎  
+I'm dtrongphuc
   
 📃 I'm currently learning:
 
