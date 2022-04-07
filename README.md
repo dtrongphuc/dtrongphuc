@@ -3,9 +3,6 @@
 !-->
 
 
-![](https://komarev.com/ghpvc/?username=dtrongphuc&color=green)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://readme-stats-dtrongphuc.vercel.app/api/wakatime?username=dtrongphuc&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dtrongphuc&layout=compact" />
 </a>
-
