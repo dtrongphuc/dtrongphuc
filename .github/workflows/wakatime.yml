@@ -18,4 +18,4 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TITLE: true
           SHOW_TOTAL: false
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          IGNORED_LANGUAGES: YAML JSON TOML OTHER # optional
