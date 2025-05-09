@@ -16,7 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
-          CODE_LANG: TypeScript, JavaScript, Vue.js, Swift
+          CODE_LANG: TypeScript JavaScript Vue.js Swift
           SHOW_TITLE: true
           SHOW_TOTAL: false
           IGNORED_LANGUAGES: YAML JSON TOML OTHER # optional
