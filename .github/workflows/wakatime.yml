@@ -17,6 +17,7 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: all_time
           CODE_LANG: TypeScript JavaScript Vue.js Swift
+          LANG_COUNT: 6
           SHOW_TITLE: true
           SHOW_TOTAL: false
           IGNORED_LANGUAGES: YAML JSON TOML OTHER # optional
