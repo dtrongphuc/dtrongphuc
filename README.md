@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```TypeScript JavaScript Vue.js Swift
-From: 11 May 2021 - To: 31 July 2025
+From: 11 May 2021 - To: 01 August 2025
 
 TypeScript                 4,539 hrs 53 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀   74.69 %
 JavaScript                 467 hrs 7 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.69 %
